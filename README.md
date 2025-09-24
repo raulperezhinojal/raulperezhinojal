@@ -1,4 +1,3 @@
-![github-header](https://github.com/user-attachments/assets/e05a1170-a29a-4bea-8acc-b67ac07f2a8e)
 
 # 👋🏼 Hi, I'm Raúl
 
