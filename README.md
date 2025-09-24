@@ -3,7 +3,7 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=TU_USUARIO_GITHUB&style=flat-square&color=blue" alt="Visitors badge" />
 
-20-year-old student in *Sistemas Microinformáticos y Redes* 💻.  
+20-year-old graduated in *Sistemas Microinformáticos y Redes* 💻 and student in Development Web Application.  
 Passionate about technology, coding and continuous learning.  
 💻 Apasionado por la tecnología y el desarrollo web. ⚽ Fan del fútbol, 🏍️ amante de las motos y 📸 explorador del mundo a través de la fotografía. Siempre buscando nuevas formas de combinar creatividad y código.
 
