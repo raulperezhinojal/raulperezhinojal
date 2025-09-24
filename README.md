@@ -1,55 +1,65 @@
-<h1 align="center">Hi, I'm Raul</h1>
+![github-header](https://github.com/user-attachments/assets/e05a1170-a29a-4bea-8acc-b67ac07f2a8e)
 
-###
+# 👋🏼 Hi, I'm Raúl
 
-<p align="left">¡Hola! Soy un apasionado/a por el desarrollo de paginas web. Me encanta resolver problemas, aprender nuevas habilidades y colaborar en proyectos que marcan la diferencia.</p>
+<img align="right" src="https://komarev.com/ghpvc/?username=TU_USUARIO_GITHUB&style=flat-square&color=blue" alt="Visitors badge" />
 
-###
+20-year-old student in *Sistemas Microinformáticos y Redes* 💻.  
+Passionate about technology, coding and continuous learning.  
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="60" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-</div>
+---
 
-###
+## ⚙️ Skills & Technologies
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=raulperezhinojal&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=raulperezhinojal&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL Badge](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Bash Badge](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-###
+---
 
-<img src="https://raw.githubusercontent.com/raulperezhinojal/raulperezhinojal/output/snake.svg" alt="Snake animation" />
+## 📧 Connect with me
 
-###
+- ✉ Email: [perezhinojal@gmail.com](mailto:perezhinojal@gmail.com)
+- 💼 LinkedIn: [Raúl Pérez Hinojal](https://www.linkedin.com/in/raulperezhinojal)
 
-<div align="center">
-  <a href="www.linkedin.com/in/raulperezhinojal" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="perezhinojal@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raulperezhinojal)
+[![Email Badge](https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:perezhinojal@gmail.com)
+[![GitHub Badge](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/raulperezhinojal)
 
-###
+---
+
+<!-- GITHUB STATS -->
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=raulperezhinojal&show_icons=true&bg_color=161b22&border_color=22222288&text_color=bbb"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=raulperezhinojal&show_icons=true&bg_color=00000000&border_color=22222288&text_color=222"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=raulperezhinojal&show_icons=true&bg_color=00000000&border_color=22222288&text_color=bbb" alt="GitHub Stats Card" />
+</picture>
+
+<!-- TOP LANGS -->
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=raulperezhinojal&layout=compact&bg_color=161b22&border_color=22222288&text_color=bbb"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=raulperezhinojal&layout=compact&bg_color=00000000&border_color=22222288&text_color=222"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulperezhinojal&layout=compact&bg_color=00000000&border_color=22222288&text_color=bbb" alt="Top Langs card" />
+</picture>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
