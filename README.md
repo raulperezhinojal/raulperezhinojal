@@ -1,4 +1,6 @@
-
+<p align="center"> 
+  <img src="https://github.com/raulperezhinojal/raulperezhinojal/blob/main/github-header-banner.png" alt="Banner del perfil" />
+</p>
 # 👋🏼 Hi, I'm Raúl
 
 <img align="right" src="https://komarev.com/ghpvc/?username=TU_USUARIO_GITHUB&style=flat-square&color=blue" alt="Visitors badge" />
